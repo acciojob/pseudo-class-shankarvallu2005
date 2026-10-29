@@ -3,10 +3,12 @@
 	margin : 20px;
 }
 #container::before{
+	content : "";
 	color : #f00;
 	font-size : 20px;
 }
 #container::after{
+	content : "";
 	font-size : 20px;
 	color : #f00;
 }
