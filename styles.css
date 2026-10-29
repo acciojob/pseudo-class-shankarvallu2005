@@ -4,7 +4,9 @@
 }
 #container::before{
 	color : #f00;
+	font-size : 20px;
 }
 #container::after{
+	font-size : 20px;
 	color : #f00;
 }
